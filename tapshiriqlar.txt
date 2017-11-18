@@ -1,0 +1,5 @@
+1) Iki muxtelif array gotururuk ve onlarin her ikisinin ortaq olan reqemlerinden ibaret array yaradiriq;
+2)Bir array gotururuk ve onun yalniz unik elementlerden ibaret olan arraye donusduren funksiya yaziriq;
+3)Password generator yaziriq
+4)Sozun ilk herfini upperCase eden funksiya
+5)Ele funksiya yaratmaq lazimdirki iki argument gotursun ,birinci array olsun ikinci boolean, eger ikinci argument true olsa arrayin maximum elementino eks halda ise min elementini qaytarsin
